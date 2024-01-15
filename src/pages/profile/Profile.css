@@ -1,0 +1,12 @@
+.profileCard {
+  width: 500px;
+  height: 270px;
+
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  .infoLabel {
+    font-weight: bold;
+    font-size: 17px;
+  }
+}

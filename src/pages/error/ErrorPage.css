@@ -1,0 +1,17 @@
+.errorMessage {
+  font-weight: bold;
+  font-size: 30px;
+  position: absolute;
+  left: 50%;
+  top: 25%;
+  transform: translate(-50%, -50%);
+}
+
+.tryAgainMessage {
+  font-weight: bold;
+  font-size: 20px;
+  position: absolute;
+  left: 50%;
+  top: 30%;
+  transform: translate(-50%, -50%);
+}
